@@ -67,3 +67,5 @@ export function parse(code) {
   return configMap;
 }
 ```
+
+ps. you probably shouldn't use this in production.
